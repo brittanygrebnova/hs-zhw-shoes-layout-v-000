@@ -279,6 +279,7 @@ a.gplus:active { background-position: -80px -80px; }
 
 .flex-container {
   display: flex;
+  margin-bottom: 2%
 }
 
 .col {
